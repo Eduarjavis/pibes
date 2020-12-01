@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PRACTICAPIBES"
+    }
+  },
+  "defaultProject": "PRACTICAPIBES",
+  "cli": {
+    "analytics": "7568d67a-f119-4f41-bfec-1b7944edbd54"
+  }
 }
